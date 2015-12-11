@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4d4904c27a800423c8d85ba74ab89d1e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabZombie: {fileID: 100000, guid: beb275ceb217e486fa48afad4cb398f0, type: 2}
+  - prefabFast: {fileID: 100006, guid: 6736f99dc35e8476697b2943637dfb2f, type: 2}
+  - prefabBoomer: {fileID: 100006, guid: d085aea95a17b4c98967a36df21f41d0, type: 2}
+  - prefabTank: {fileID: 100004, guid: 6e7ca52df17b94786b85a082d5e0301a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
